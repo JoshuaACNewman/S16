@@ -1,0 +1,25 @@
+REQUIREMENTS
+These are the core, constitutional ideas of the S16 wavesharing system.
+They are not solutions, just the basic agreement between musicians who want
+their gear to get nasty together.
+
+1. Collaboration is consensual.
+  My inputs are built to my specification. Your outputs are built to your specification.
+  That is, my gear takes optical input through a LEGO connection. That's what I'm asking for.
+  Your output is guaranteed optical, terminating in a particular LEGO connection. That's what you offer.
+  Culturally, you hand me the pulsing end of your cable and ask me to put it where I want.
+  You might want to put it into a particular socket, and maybe I'm into it,
+  but maybe I want to put it into a different socket. Worst that happens is we're disappointed with the results.
+2. No one's gear can damage anyone else's gear.
+  I'm using optical buffering because no one is going to generate a light bright enough
+  to damage anyone else's gear, and it keeps everyone ground completely isolated.
+  If my gear blows up, it's because of my mistake (or, yes, Mssrs. Pauline and Tinguely, my deliberate artistic decision).
+  Your gear is extremely unlikely to blow up, but if it does, a) the cable will probably go first (no big deal),
+  and anyway, it's a mistake you made along the way that I can't have had responsibility for.
+3. Graceful degradation of signal.
+  If I make a cable, it works well, or offers weak signal, or does nothing.
+  The cables, themselves, might produce interesting distortion, so you might use a particular cable for its interesting effect.
+4. Takes backward-compatible CV.
+  No one's gear needs to be modified to send a signal, only to receive it. See: principle 1.
+  Different LEDs and resistors might be better for different CV schemes.
+  That's up to the sender to build cables that work best for them.
